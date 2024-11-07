@@ -6,4 +6,3 @@ int main(){
     printf("Divisibility test returns %d", a%97);
     return 0;
 }
-

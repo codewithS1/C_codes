@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main(){
     int month;
     printf("Enter month number \n");
@@ -12,5 +13,6 @@ int main(){
     }else{
         printf("Invalid month number");
     }
+    getch();
     return 0;
 }

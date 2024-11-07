@@ -17,5 +17,12 @@ int main()
 
     printf("Reversed number = %d", reverse);
 
+    
+    if (reverse==n){
+        printf("Number is palildrome");
+    }
+    else {
+        printf("Number is not palildrome");
+    }
     return 0;
 }

@@ -21,6 +21,6 @@ int main(){
         }
         nguesses++;
     }while(guess!=number);
-    getch();
+    // getch();
     return 0;
 }

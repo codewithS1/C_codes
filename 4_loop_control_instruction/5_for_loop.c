@@ -6,6 +6,15 @@ int main(){
     scanf("%d",&b);
     for(a=1;a<=b;a++){
         printf("The value of a is %d \n",a);
+        if(a==5){
+                    // printf("ok \n");
+
+            continue;
+        
+
+        }
+        // printf("The value of a is %d \n",a);
+
     }
     return 0;
 }

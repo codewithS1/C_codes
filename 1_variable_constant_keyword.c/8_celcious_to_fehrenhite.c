@@ -1,5 +1,5 @@
+// celcious to ferhanite
 #include<stdio.h>
-
 int main(){
     float celcious;
     printf("Enter temperature in celcious\n");

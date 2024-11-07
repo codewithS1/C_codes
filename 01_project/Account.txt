@@ -1,0 +1,15 @@
+
+Name : Shubham pawar
+Account no. : 1234
+
+Rs123 had been deposited to your account 
+Date/Time of transaction :  Fri May 17 11:33:04 2024
+
+
+Rs123 had been withdrawn from your account 
+Date/Time of transaction :  Fri May 17 11:33:15 2024
+
+
+Rs23 had been transferred from your account to 1234
+Date/Time of transaction :  Fri May 17 11:33:24 2024
+
